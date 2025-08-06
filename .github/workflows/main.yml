@@ -1,4 +1,4 @@
-name: My-GithubActions-Basics
+name: MyGithubActions
 
 on: 
   push:
